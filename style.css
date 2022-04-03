@@ -1,0 +1,15 @@
+* {
+  margin: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+button > a {
+  text-decoration: none;
+}
+
+.btn-danger {
+  color: white;
+}
